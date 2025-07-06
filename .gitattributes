@@ -1,0 +1,7 @@
+# Mark C++ files explicitly
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+
+# Treat text files as documentation (not source code)
+*.txt linguist-documentation
+*.md linguist-documentation
